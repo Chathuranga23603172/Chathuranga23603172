@@ -10,7 +10,7 @@ I'm a passionate developer who loves building useful things, learning in public,
 * 🌱 I’m learning: **Next.js · TypeScript · Cloud fundamentals**
 * 👯 I’m looking to collaborate on: **Open-source tools and experiments**
 * 💬 Ask me about: **JavaScript, React, Node.js, and APIs**
-* 📫 How to reach me: **[your.email@example.com](mailto:your.nirmalgalagedara@gmail.com)**
+* 📫 How to reach me: **[nirmalgalagedara@gmail.com](mailto:your.nirmalgalagedara@gmail.com)**
 * ⚡ Fun fact: **I debug with rubber ducks 🦆**
 
 ---
