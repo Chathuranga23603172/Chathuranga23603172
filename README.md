@@ -114,11 +114,3 @@ If you like my work, consider giving a ⭐ to the repos you find helpful. It rea
 ![Profile Views](https://komarev.com/ghpvc/?username=Chathuranga23603172\&style=flat-square)
 
 ---
-
-### How to use this
-
-1. Create a repo named **`Chathuranga23603172/Chathuranga23603172`** (exactly your username).
-2. Add a file named `README.md` (this file) to that repo.
-3. Commit and push. GitHub will display it on your profile automatically.
-
-> Want a different vibe? Tell me your tech stack, favorite projects, and any links, and I’ll tailor this for you.
