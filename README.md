@@ -18,7 +18,7 @@ I'm a passionate developer who loves building useful things, learning in public,
 ## 🔗 Quick Links
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/your-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)]([https://linkedin.com/in/your-handle](https://www.linkedin.com/in/nirmal-galagedara-6b4825384/))
 [![Twitter](https://img.shields.io/badge/Twitter-111?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/your-handle)
 [![Email](https://img.shields.io/badge/Email-333?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:your.email@example.com)
 
