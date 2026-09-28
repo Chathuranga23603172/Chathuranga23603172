@@ -1,116 +1,90 @@
-# Hi there, I'm Chathuranga 👋
+<!-- Banner (animated wave header) -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=L.P.S%20Liyanage&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20MERN%20Specialist%20•%20SLIIT%20Year%203&descAlignY=58&descSize=18" width="100%" />
+</div>
 
-<!-- Optional banner image -->
+<!-- Typing animation -->
+<div align="center">
+  <a href="https://github.com/APXs-01">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=50&lines=🤖+AI+Integrated+Web+Apps;🚀+Full-Stack+MERN+Developer;💡+Turning+Ideas+into+Products;📚+SLIIT+Year+3+Student" alt="Typing SVG" />
+  </a>
+</div>
 
-<!-- <img src="https://images.unsplash.com/photo-1526401485004-2fda9f4d9a7c?q=80&w=1600&auto=format&fit=crop" alt="banner" /> -->
+<br/>
 
-I'm a passionate developer who loves building useful things, learning in public, and contributing back to the community. This profile README is a quick snapshot of what I do and where I'm headed.
+<!-- Main badges -->
+<div align="center">
+  <a href="https://lpsliyanage.web.lk">
+    <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-lpsliyanage.web.lk-A78BFA?style=for-the-badge&labelColor=1a1a2e" />
+  </a>
+  <a href="https://github.com/APXs-01">
+    <img src="https://img.shields.io/badge/GITHUB-APXs--01-555555?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=APXs-01&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge" />
+</div>
 
-* 🔭 I’m currently working on: **Your current project here**
-* 🌱 I’m learning: **Next.js · TypeScript · Cloud fundamentals**
-* 👯 I’m looking to collaborate on: **Open-source tools and experiments**
-* 💬 Ask me about: **JavaScript, React, Node.js, and APIs**
-* 📫 How to reach me: **[nirmalgalagedara@gmail.com](mailto:your.nirmalgalagedara@gmail.com)**
-* ⚡ Fun fact: **I debug with rubber ducks 🦆**
+<br/>
 
----
-
-## 🔗 Quick Links
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)]([https://linkedin.com/in/your-handle](https://www.linkedin.com/in/nirmal-galagedara-6b4825384/))
-[![Twitter](https://img.shields.io/badge/Twitter-111?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/your-handle)
-[![Email](https://img.shields.io/badge/Email-333?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:your.email@example.com)
-
-> Replace the links above with your real ones.
-
----
-
-## 🛠️ Tech & Tools
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-
-**Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
-
-**Databases & Cloud**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-
-**DevTools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+<!-- Social links (replace YOUR_... with your own) -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.facebook.com/YOUR_FACEBOOK"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://wa.me/94XXXXXXXXX"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+</div>
 
 ---
 
-## 📈 GitHub Stats
+## 👨‍💻 About Me
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Chathuranga23603172&show_icons=true&rank_icon=github" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chathuranga23603172&layout=compact" height="165" alt="Top Languages" />
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=Chathuranga23603172" height="165" alt="GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Chathuranga23603172&theme=flat&no-frame=true&margin-w=10&row=1" height="165" alt="GitHub Trophies" />
-</p>
-
-> If the stat cards don't load, visit their repos to see usage notes:
->
-> * anuraghazra/github-readme-stats
-> * DenverCoder1/github-readme-streak-stats
-> * ryo-ma/github-profile-trophy
+- 🎓 3rd-year undergraduate at **SLIIT**
+- 🌱 Specialising in the **MERN stack** (MongoDB, Express, React, Node.js)
+- 🤖 Currently exploring **AI integration** in web applications
+- 🔭 Building full-stack projects and learning something new every day
+- 📫 Reach me through the links above
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Tech Stack
 
-* **Project Name** – one-liner about what it does and why it's cool.
-
-  * Repo: `https://github.com/Chathuranga23603172/your-repo`
-  * Live: `https://your-live-app.example.com`
-
-* **Another Project** – short description here.
-
-  * Repo: `https://github.com/Chathuranga23603172/another-repo`
-  * Live: `https://another-live.example.com`
-
-> Tip: Pin your best repositories on your GitHub profile for quick access.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,ts,html,css,tailwind,bootstrap&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,firebase,git,github,postman,figma,vscode,linux&theme=dark" />
+</div>
 
 ---
 
-## ✍️ Latest Posts (Optional)
+## 📊 GitHub Stats
 
-<!--
-You can automate this section with a GitHub Action that pulls your latest blog posts or YouTube videos. Replace with your sources.
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=APXs-01&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=APXs-01&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
+</div>
 
-- [Post title 1](#)
-- [Post title 2](#)
-- [Post title 3](#)
--->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=APXs-01&theme=radical&hide_border=true&background=0d1117" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=APXs-01&theme=react-dark&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff" width="100%" />
+</div>
+
+---
+
+## 📌 Featured Projects
+
+<!-- Replace REPO_NAME with your repo names -->
+<div align="center">
+  <a href="https://github.com/APXs-01/REPO_NAME_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=APXs-01&repo=REPO_NAME_1&theme=radical&hide_border=true&bg_color=0d1117" /></a>
+  <a href="https://github.com/APXs-01/REPO_NAME_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=APXs-01&repo=REPO_NAME_2&theme=radical&hide_border=true&bg_color=0d1117" /></a>
+</div>
 
 ---
 
-## 🤝 Support
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile+✨;Let's+build+something+great+together" />
+</div>
 
-If you like my work, consider giving a ⭐ to the repos you find helpful. It really helps!
-
----
-
-## 📊 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=Chathuranga23603172\&style=flat-square)
-
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
